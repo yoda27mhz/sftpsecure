@@ -1,0 +1,2 @@
+# sftpsecure
+CREATE SFTP SERVICE WITH CHROOT
